@@ -1,4 +1,4 @@
-# JAVA-SPRING-STUDY
+# Spring Framework
 spring framework를 이용해 웹 개발을 진행하면서 하는 스터디
 
 Tech_Repo
